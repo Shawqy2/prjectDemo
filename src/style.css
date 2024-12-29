@@ -482,6 +482,7 @@ body {
     height: 100vh; 
     background: url('/src/images/hero1.jpeg') no-repeat center center/cover; /* صورة خلفية */
     background-size: cover; 
+    background-attachment: fixed;
     position: relative;
     color: white;
     text-align: center;
